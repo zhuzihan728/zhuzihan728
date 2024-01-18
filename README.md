@@ -32,10 +32,10 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumuing&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumuing&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuzihan728&hide=html,css,Jupyter+Notebook,ruby,Tex,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 
-<br><br> -->
+<br><br>
 
 
 <!-- https://codeacg.xlog.app/github-mei-hua-ri-ji---you-cai-you-ai-wan-md
