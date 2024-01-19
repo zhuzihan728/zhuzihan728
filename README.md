@@ -7,6 +7,22 @@
 <div align="center">
   I' am Zihan Zhu. I did computer science and some machine learning at school. I spend time playing and making games. I am also making AIGC (AI generated content) for game dev! Hope you enjoy ❤️
   <br><br>
+
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/mechabunny19c)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zihan-zhu-54a689209/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mechabunny19c/)  [![Steam](https://img.shields.io/badge/Steam-%230077B5.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198345251197/) [![League of Legends](https://img.shields.io/badge/League%20of%20Legends-D32936.svg?logo=riotgames&logoColor=white)](https://www.op.gg/summoners/euw/mechabunny19c-uxu)  [![Bilibili](https://img.shields.io/badge/Bilibili-%23FB7299.svg?logo=bilibili&logoColor=white)](https://space.bilibili.com/5951168) 
+
+
+———————————— ❤️ ————————————
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zhuzihan728)](https://git.io/streak-stats)
+
+
+
+<p align="center" width="100%">
+    <img src="https://count.getloli.com/get/@cnt?theme=rule34" alt=":name" />
+</p>
+
+</div>
+  <!-- <br><br>
   My tech stack:
     <table style="border-collapse: collapse; border: 0;">
         <tr style="border: none;">
@@ -32,19 +48,6 @@
         </tr>
     </table>
 
-  You can find me by:<br>
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/mechabunny19c)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zihan-zhu-54a689209/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mechabunny19c/)  [![Steam](https://img.shields.io/badge/Steam-%230077B5.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198345251197/) [![League of Legends](https://img.shields.io/badge/League%20of%20Legends-D32936.svg?logo=riotgames&logoColor=white)](https://www.op.gg/summoners/euw/mechabunny19c-uxu)  [![Bilibili](https://img.shields.io/badge/Bilibili-%23FB7299.svg?logo=bilibili&logoColor=white)](https://space.bilibili.com/5951168) 
-
-
-———————————— ❤️ ————————————
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=codeacg)](https://git.io/streak-stats)
-
-
-
-<p align="center" width="100%">
-    <img src="https://count.getloli.com/get/@cnt?theme=rule34" alt=":name" />
-</p>
 
 
 
