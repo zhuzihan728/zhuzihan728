@@ -5,7 +5,7 @@
 ![My card name](https://cardivo.vercel.app/api?name=MechaBunny19c&description=I%27m%20Zihan%20Zhu%2C%20aka%20MechaBunny19C.%20I%20program%20interesting%20stuffs%21%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://github.com/zhuzihan728/zhuzihan728/blob/main/assets/bg.png?raw=true&backgroundColor=%23f6dddd&instagram=mechabunny19c&linkedin=Zihan%20Zhu&github=zhuzihan728&pattern=hideout&colorPattern=%23eaeaea)
 
 <div align="center">
-    I am Zihan Zhu. I studied computer science and dabbled in machine learning at school. My time is spent playing and making games. Currently, I am working on AIGC (AI-generated content) for game development. Hope you enjoy it ☕
+    I studied computer science and dabbled in machine learning at school. My time is spent playing and making games. Currently, I am working on AIGC (AI-generated content) for game development. Hope you enjoy it ☕
   <br><br>
 
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/mechabunny19c)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zihan-zhu-54a689209/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mechabunny19c/)  [![Steam](https://img.shields.io/badge/Steam-%230077B5.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198345251197/) [![League of Legends](https://img.shields.io/badge/League%20of%20Legends-D32936.svg?logo=riotgames&logoColor=white)](https://www.op.gg/summoners/euw/mechabunny19c-uxu)  [![Bilibili](https://img.shields.io/badge/Bilibili-%23FB7299.svg?logo=bilibili&logoColor=white)](https://space.bilibili.com/5951168) 
