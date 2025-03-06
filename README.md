@@ -13,7 +13,7 @@
 
 ———————————— ❤️ ————————————
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zhuzihan728)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=zhuzihan728)](https://git.io/streak-stats)
 
 
 
