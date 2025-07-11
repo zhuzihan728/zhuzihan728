@@ -1,16 +1,27 @@
 <h1 align="center">
-  Hiya, It's MechaBunny19c ✨
+  𝐇𝐢𝐲𝐚, 𝐈𝐭'𝐬 𝐌𝐞𝐜𝐡𝐚𝐁𝐮𝐧𝐧𝐲𝟏𝟗𝐜 ✨
 </h1>
 
-![My card name](https://cardivo.vercel.app/api?name=MechaBunny19c&description=I%27m%20Zihan%20Zhu%2C%20aka%20MechaBunny19C.%20I%20program%20interesting%20stuffs%21%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://github.com/zhuzihan728/zhuzihan728/blob/main/assets/bg.png?raw=true&backgroundColor=%23f6dddd&instagram=mechabunny19c&linkedin=Zihan%20Zhu&github=zhuzihan728&pattern=hideout&colorPattern=%23eaeaea)
-
 <div align="center">
-    I studied computer science and dabbled in machine learning at school. My time is spent playing games and watching anime. Currently, I am working on AIGC (AI-generated content) for game development. Hope you enjoy it ☕
+  <img src="https://cardivo.vercel.app/api?name=MechaBunny19c&description=I%20do%20%20ML%20projects%20and%20AI%20apps%20at%20work.%20I%20code%20interesting%20stuff%20in%20my%20free%20time.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://github.com/zhuzihan728/zhuzihan728/blob/main/assets/bg.png?raw=true&backgroundColor=%23f6dddd&linkedin=Zihan%20Zhu&github=zhuzihan728&instagram=mechabunny19c&pattern=hideout&colorPattern=%23eaeaea" width="600" alt="My card name">
+</div>
+
+<p><strong>🤗 𝐈 𝐚𝐦...</strong><br>
+  
+- 𝖬𝖤𝗇𝗀 𝖢𝗈𝗆𝗉𝗎𝗍𝖾𝗋 𝖲𝖼𝗂𝖾𝗇𝖼𝖾 𝗀𝗋𝖺𝖽 𝖿𝗋𝗈𝗆 𝖴𝖢𝖫 (𝖥𝗂𝗋𝗌𝗍 𝖢𝗅𝖺𝗌𝗌 𝖧𝗈𝗇𝗈𝗎𝗋𝗌, 𝖦𝖯𝖠 𝟪𝟢.𝟫𝟩/𝟣𝟢𝟢).
+- 𝖠 𝗌𝗍𝗎𝖽𝖾𝗇𝗍 𝖺𝗍 𝖢𝖺𝗆𝖻𝗋𝗂𝖽𝗀𝖾 𝗂𝗇 𝖬𝖯𝗁𝗂𝗅 𝖬𝖺𝖼𝗁𝗂𝗇𝖾 𝖫𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝖺𝗇𝖽 𝖬𝖺𝖼𝗁𝗂𝗇𝖾 𝖨𝗇𝗍𝖾𝗅𝗅𝗂𝗀𝖾𝗇𝖼𝖾.
+- 𝖠𝖨 𝖱𝖾𝗌𝖾𝖺𝗋𝖼𝗁 𝖨𝗇𝗍𝖾𝗋𝗇 𝖺𝗍 𝖫𝗂𝗀𝗁𝗍𝖲𝗉𝖾𝖾𝖽 𝖲𝗍𝗎𝖽𝗂𝗈𝗌 𝖳𝖾𝗇𝖼𝖾𝗇𝗍 (𝟤𝟢𝟤𝟥-𝟤𝟢𝟤𝟦).
+- 𝖲𝗄𝗒𝖼𝗈𝗂𝗇 𝖬𝖫𝖤 𝗂𝗇 𝖫𝖫𝖬 𝖽𝗂𝗏𝗂𝗌𝗂𝗈𝗇 (𝟤𝟢𝟤𝟧).
+- 𝖨𝗇𝗍𝖾𝗋𝖾𝗌𝗍𝖾𝖽 𝗂𝗇 𝗆𝖺𝗍𝗁𝗌, 𝖬𝖫 𝖺𝗅𝗀𝗈𝗋𝗂𝗍𝗁𝗆𝗌, 𝖿𝗂𝖼𝗍𝗂𝗈𝗇𝖺𝗅 𝖻𝗈𝗈𝗄𝗌, 𝗍𝖾𝗇𝗇𝗂𝗌, 𝖺𝗇𝗂𝗆𝖾 &amp; 𝗀𝖺𝗆𝖾𝗌.
+
+<p><strong>🐙 𝐈 𝐤𝐧𝐨𝐰...</strong><br>
+𝖽𝖾𝖾𝗉 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 ┃ 𝗀𝖾𝗇𝖾𝗋𝖺𝗍𝗂𝗏𝖾 𝗆𝗈𝖽𝖾𝗅𝗌 ┃ 𝗅𝖺𝗇𝗀𝗎𝖺𝗀𝖾 &amp; 𝗌𝗉𝖾𝖾𝖼𝗁 𝗉𝗋𝗈𝖼𝖾𝗌𝗌𝗂𝗇𝗀 ┃ 𝗋𝖾𝗂𝗇𝖿𝗈𝗋𝖼𝖾𝗆𝖾𝗇𝗍 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 ┃ 𝟥𝖣 𝗋𝖾𝖼𝗈𝗇𝗌𝗍𝗋𝗎𝖼𝗍𝗂𝗈𝗇 ┃ 𝖠𝖨 𝖺𝗉𝗉𝗌</p>
+
+<p><strong>🐝 𝐈 𝐝𝐢𝐝...</strong><br>
+𝖦𝖯𝖳 𝖿𝗋𝗈𝗆 𝗌𝖼𝗋𝖺𝗍𝖼𝗁 𝗂𝗇 𝖢# ┃ 𝖫𝖫𝖬 𝖭𝖯𝖢 𝖿𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄𝗌 ┃ 𝖺𝖽𝖺𝗉𝗍𝗂𝗏𝖾 𝖱𝖠𝖦 𝗌𝗒𝗌𝗍𝖾𝗆𝗌 ┃ 𝗉𝗋𝗈𝗍𝖾𝗂𝗇 𝗆𝖾𝗍𝖺𝗅 𝖻𝗂𝗇𝖽𝗂𝗇𝗀 𝗌𝗂𝗍𝖾 𝗉𝗋𝖾𝖽𝗂𝖼𝗍𝗂𝗈𝗇 ┃ 𝖵𝖱 𝗋𝗁𝗒𝗍𝗁𝗆 𝗀𝖺𝗆𝖾 ┃ 𝖳𝖾𝗍𝗋𝗂𝗌 𝖠𝖨 </p>
   <br><br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zihan-zhu-54a689209/)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/mechabunny19c)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mechabunny19c/)  [![Steam](https://img.shields.io/badge/Steam-%230077B5.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198345251197/) [![League of Legends](https://img.shields.io/badge/League%20of%20Legends-D32936.svg?logo=riotgames&logoColor=white)](https://www.op.gg/summoners/euw/mechabunny19c-uxu)  [![Bilibili](https://img.shields.io/badge/Bilibili-%23FB7299.svg?logo=bilibili&logoColor=white)](https://space.bilibili.com/5951168) 
-
-
+<div align="center">
+  
 ———————————— ❤️ ————————————
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=zhuzihan728)](https://git.io/streak-stats)
